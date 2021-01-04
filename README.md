@@ -2,11 +2,13 @@
 
 Gaspar Correa Vergara
 
-* Dependencias:
--- Junit 5
--- Java 8
---Ant (Para compilar y ejecutar tasks)
+## Dependencias:
+- Junit 5
+- Java 8
+- Ant (Para compilar y ejecutar tasks)
 
+
+## Instrucciones
 * Instrucciones de compilado
 Desde carpeta raíz:
 ```
